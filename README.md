@@ -3,7 +3,9 @@ This project is a simplified clone of the Amazon website, built for educational 
 
 # Features
 1.Product Listings: Browse a variety of products with detailed descriptions and prices.
+
 2.Search Functionality: Search for products by name, category, or other criteria.
+
 3.Shopping Cart: Add items to your cart and proceed to checkout.
 
 # Demo
